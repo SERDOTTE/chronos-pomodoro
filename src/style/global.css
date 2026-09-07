@@ -1,0 +1,12 @@
+#inserir tudo que for global para o projeto, como estilos de body, h1, links, e outros elementos HTML comuns
+
+body {
+    font-family: sans-serif;
+    font-size: 30px;
+    background-color: var(--background);
+}
+
+h1 {
+    font-size: 50px;
+    color: var(--primary);
+}
